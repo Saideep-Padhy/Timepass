@@ -114,3 +114,7 @@ button:hover{
 	background-color: #DDE3FD;
 	border: none;
 }
+img{
+	width: 120px;
+	height: 70px;
+}
